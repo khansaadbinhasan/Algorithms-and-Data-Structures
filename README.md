@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures
-Repo containing code from Algo and DS courses and other practice questions i did
+This repository contains the implementaions of Algorithms in Cormen's book on Algorithms. 
